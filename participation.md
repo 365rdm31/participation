@@ -21,9 +21,10 @@ alone with Google?
 # Lecture 2
 
 ## How Did I Prepare Before Lecture?
-
+I got Linux installed on my desktop and a remote desktop connection set up on my laptop. I also read the lecture 2 notes and read (or skimmed) the pages assigned there.
 
 ## How Did I Contribute During Lecture?
+I helped Jacob get the slides downloaded and open in Jupyter on Mint.
 
 ## What Was or Is The Most Confusing Thing?
-
+I have forgotten everything I used to know about Command Line.
