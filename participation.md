@@ -22,8 +22,26 @@ alone with Google?
 
 ## How Did I Prepare Before Lecture?
 
+I got my Mint installed and running and I did the readings about GNU, Linux, and free software.
 
 ## How Did I Contribute During Lecture?
 
+I helped Jacob get his github working and figure out how to commit.
+
 ## What Was or Is The Most Confusing Thing?
 
+I don't remember much about command line and I will have to relearn it.
+
+# Lecture 3
+
+## How Did I Prepare Before Lecture?
+
+I read from the command line book that was posted.
+
+## How Did I Contribute During Lecture?
+
+I asked some questions and helped Jacob with some commands.
+
+## What Was or Is The Most Confusing Thing?
+
+I'm worried about remembering commands and getting comfortable on the command line.
