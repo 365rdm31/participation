@@ -45,3 +45,25 @@ I asked some questions and helped Jacob with some commands.
 ## What Was or Is The Most Confusing Thing?
 
 I'm worried about remembering commands and getting comfortable on the command line.
+
+# Lecture 4
+
+## How Did I Prepare Before Lecture?
+
+I updated more of my cheat sheet reading from the book and a website CJ showed me.
+
+## How Did I Contribute During Lecture?
+
+I asked some questions and helped Tyler get caught up since he missed class on Friday.
+
+## What Was or Is The Most Confusing Thing?
+
+The chmod function confuses me.
+
+# Lecture 5
+
+## How Did I Prepare Before Lecture?
+
+## How Did I Contribute During Lecture?
+
+## What Was or Is The Most Confusing Thing?
