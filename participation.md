@@ -64,6 +64,20 @@ The chmod function confuses me.
 
 ## How Did I Prepare Before Lecture?
 
+I did the command line reading.
+
+## How Did I Contribute During Lecture?
+
+I answered some questions and did the bash commands along with the slides.
+
+## What Was or Is The Most Confusing Thing?
+
+I feel like I'm gonna get lost in bash. It hasn't happened yet, but it feels like it will get overwhelming.
+
+# Lecture 6
+
+## How Did I Prepare Before Lecture?
+
 ## How Did I Contribute During Lecture?
 
 ## What Was or Is The Most Confusing Thing?
