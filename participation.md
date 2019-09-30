@@ -120,8 +120,94 @@ I don't think I can do these things on my own yet. Definitely need more practice
 
 ## How Did I Prepare Before Lecture?
 
+I began working on the homework assignement and looked through the slides.
+
+## How Did I Contribute During Lecture?
+
+I took part in the activity in class and practiced the pull request.
+
+## What Was or Is The Most Confusing Thing?
+
+I still get lost trying to move between repositories and push/pull smoothly.
+
+# Lecture 10
+
+## How Did I Prepare Before Lecture?
+
+I reviewed the python material.
+
+## How Did I Contribute During Lecture?
+
+I followed along with the python activities and answered some questions.
+
+## What Was or Is The Most Cnofusing Thing?
+
+I'm still mostly concerned about git issues.
+
+# Lecture 11
+
+## How Did I Prepare Before Lecture?
+
+I did the reading from the ME400 lectures.
+
+## How Did I Contribute During Lecture?
+
+I asked some questions about new info in python and followed the examples.
+
+## What Was or Is The Most Cnofusing Thing?
+
+Working on the homework last night, I got lost in forking/fetching different branches in git.
+
+# Lecture 12
+
+## How Did I Prepare Before Lecture?
+
+I continued the reading on ME400 lectures.
+
+## How Did I Contribute During Lecture?
+
+My computer didn't work most of the period, so I just followed the slides and worked along with Jacob at points.
+
+## What Was or Is The Most Cnofusing Thing?
+
+I feel mostly good about python. I'm a little worried about connecting it to C.
+
+# Lecture 13
+
+## How Did I Prepare Before Lecture?
+
+Got my computer set up before hand so I could be sure I was ready for class today.
+
+## How Did I Contribute During Lecture?
+
+Followed the conversions between binary and decimal and I responded to questions in class.
+
+## What Was or Is The Most Cnofusing Thing?
+
+I have trouble connecting the work we did in class, understanding 8bit numbers and things, to how computers actually work at a slightly higher level.
+
+# Lecture 14
+
+## How Did I Prepare Before Lecture?
+
+I have been looking at the homework and I skimmed the reading.
+
+## How Did I Contribute During Lecture?
+
+I followed along with the lecture and worked through examples.
+
+## What Was or Is The Most Cnofusing Thing?
+
+I don't remember much from DiffEq, which is concerning.
+
+# Lecture 15
+
+## How Did I Prepare Before Lecture?
+
+
 
 ## How Did I Contribute During Lecture?
 
 
-## What Was or Is The Most Confusing Thing?
+
+## What Was or Is The Most Cnofusing Thing?
